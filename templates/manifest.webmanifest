@@ -1,7 +1,7 @@
 {
   "name": "Robo-clicl",
-  "short_name": "Приложение",
-  "description": "Пример прогрессивного веб-приложения",
+  "short_name": "Robo",
+  "description": "this is my pet-progect desine own ASMART",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
