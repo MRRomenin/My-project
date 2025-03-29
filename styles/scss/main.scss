@@ -1,11 +1,8 @@
 //Шрифты
 
-
 $font_nunito: Nunito, sans-serif; 
 $font_nunito_sans: Nunito Sans, sans-serif;
 
-
-//
 
 //Цвета
 $color_blue: #009EE3;
@@ -13,9 +10,6 @@ $color_birch: #ECF6FA;
 $color_medium_dark: #3D4250;
 
 
-
-
-//
 
 
 * {
@@ -105,11 +99,7 @@ $color_medium_dark: #3D4250;
     #header_menu {
         display: flex;
         align-items: center;
-        
-        
     }
-
-    
 
     
     .menu {
@@ -152,12 +142,7 @@ $color_medium_dark: #3D4250;
 
         
         margin-left: 75px;
-        
 
-        
-
-    
-        
 }
 
     #buttons {
@@ -276,9 +261,6 @@ $color_medium_dark: #3D4250;
 
 
 #block_2 {
-
-    
-
 
     .tablets {
         display: flex;
@@ -1008,15 +990,10 @@ $color_medium_dark: #3D4250;
                     
                     
                 }
-            
-        
         }
 
     }
-
-        
-
-    
+   
     .block_5_woman {
             display: grid;
             
@@ -1222,8 +1199,6 @@ $color_medium_dark: #3D4250;
         flex-direction: column;
         gap: 48px;
     }
-    
-
 
 }
 
